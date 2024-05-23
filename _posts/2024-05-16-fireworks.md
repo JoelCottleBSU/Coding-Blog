@@ -11,4 +11,4 @@ date: 2024-05-16
 
 
 
-[This is my second experiment](/Coding-Blog/codeExperiements/fireworks-expo3/index.html)
+[This is my second experiment](/Coding-Blog/codeExperiments/fireworks-expo3/index.html)

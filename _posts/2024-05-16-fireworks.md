@@ -16,3 +16,5 @@ date: 2024-05-16
 [This is my third experiment](/Coding-Blog/codeExperiments/fireworks-expo4/index.html)
 
 <p>for my final experiment I removed the fall and gravity of the particles and lowered the speed. I found that when left for a while it gives the effect of travelling through space with only some simple changes.</p>
+
+[This is my fourth experiment](/Coding-Blog/codeExperiments/fireworks-expofinal/index.html)
